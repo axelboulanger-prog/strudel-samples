@@ -1,6 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/axelboulanger-prog/strudel-samples/main/",
-  "heartbeat": ["heartbeat/heartbeat1.wav","heartbeat/heartbeat2.wav" ]
-  "humbeat": ["humbeat/humbeat1.wav","humbeat/humbeat2.wav" ]
+  "heartbeat": ["heartbeat/heartbeat1.wav","heartbeat/heartbeat2.wav"],
+  "humbeat": ["humbeat/humbeat1.wav","humbeat/humbeat2.wav"]
 
 }
